@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # eduwork-reactjs
 =======
 # Getting Started with Create React App
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 4692887 (my first commit)
+=======
+# eduwork-reactjs
+>>>>>>> b2b8aca5049bac252a53f4030dd3f111c73c0154
